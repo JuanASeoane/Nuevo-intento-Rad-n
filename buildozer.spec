@@ -19,7 +19,7 @@ source.include_exts = py,kv,png,jpg,jpeg,atlas
 version = 0.1
 
 # (list) Requisitos / dependencias de la app
-requirements = python3,kivy==2.3.1,pillow,reportlab,plyer
+requirements = python3,kivy,pillow,reportlab,plyer
 
 # (str) Orientación admitida (portrait, landscape o all)
 orientation = portrait
